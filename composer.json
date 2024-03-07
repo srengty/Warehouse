@@ -55,7 +55,7 @@
         "laravel": {
             "dont-discover": [],
             "providers": [
-                "FtSda3\\Warehouse\\AppServiceProvider"
+                "FtSda3\\Warehouse\\Providers\\AppServiceProvider"
             ]
         }
     },
