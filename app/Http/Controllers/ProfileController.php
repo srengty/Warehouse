@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace FtSda3\Warehouse\Http\Controllers;
 
-use App\Http\Requests\ProfileUpdateRequest;
+use FtSda3\Warehouse\Http\Requests\ProfileUpdateRequest;
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;

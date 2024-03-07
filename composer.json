@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "app/",
+            "FtSda3\\Warehouse\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
         }

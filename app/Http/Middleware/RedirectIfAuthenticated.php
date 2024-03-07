@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace FtSda3\Warehouse\Http\Middleware;
 
-use App\Providers\RouteServiceProvider;
+use FtSda3\Warehouse\Providers\RouteServiceProvider;
 use Closure;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;

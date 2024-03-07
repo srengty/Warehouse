@@ -2,8 +2,8 @@
 
 namespace Tests\Feature\Auth;
 
-use App\Models\User;
-use App\Providers\RouteServiceProvider;
+use FtSda3\Warehouse\Models\User;
+use FtSda3\Warehouse\Providers\RouteServiceProvider;
 use Illuminate\Auth\Events\Verified;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Event;
